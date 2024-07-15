@@ -7,3 +7,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.my-container{
+
+    width: 80%;
+    margin: 0 auto;
+    background-color: greenyellow;
+    min-height: 200px;
+}
