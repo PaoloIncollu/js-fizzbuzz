@@ -8,10 +8,21 @@
     box-sizing: border-box;
 }
 
+.row .col{
+
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    line-height: 100px;
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+    
+}
 .my-container{
 
     width: 80%;
     margin: 0 auto;
-    background-color: greenyellow;
+    
     min-height: 200px;
 }
